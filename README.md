@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish</h1>
+<h1 align="center">Hi 👋, I'm Manish S</h1>
 <h3 align="center">🚀 Software Developer | AI & Full Stack Engineer | Solving Real-World Problems with AI</h3>
 
 <p align="center">
