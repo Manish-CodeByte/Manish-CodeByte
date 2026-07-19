@@ -1,57 +1,115 @@
-<h1 align="center">Hi 👋, I'm Manish S</h1>
-<h3 align="center">🚀 Software Developer | AI & Full Stack Engineer | Solving Real-World Problems with AI</h3>
+# Hi 👋, I'm **Manish S**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Engineer;Hackathon+Participant;Continuous+Learner" alt="Typing SVG" />
-</p>
+### 🚀 Software Developer | AI Engineer | Full Stack Developer
 
----
+I build AI-powered and scalable web applications that solve real-world problems. My interests lie in **Artificial Intelligence, Backend Development, Full Stack Engineering, and System Design**, with a strong focus on creating production-ready solutions.
 
-## 🚀 About Me
-
-- 🤖 Software Developer focused on building AI-driven and scalable applications
-- 💡 Developed real-world projects in healthcare, automation, and web systems
-- 🛠️ Strong interest in Backend Development, System Design, and AI Integration
-- 💼 Open to Software Developer and AI Internship opportunities
-- ⚡ Passionate about solving practical problems through technology
+🌐 **Portfolio:** https://manish-portfolio-app.vercel.app/
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,react,html,css,flask,fastapi,git,github,docker,vscode" />
-</p>
-
----
-
-## 🚀 Projects
-
-### 🏥 Healthcare AI Consultation App
-
-Developed a full-stack healthcare application providing AI-based text and voice consultation along with an emergency SOS feature to assist users in real-time.
-
-**Tech Stack:** Flask, React Native, Azure Speech-to-Text, ElevenLabs, Twilio
+* 💻 Software Developer passionate about building AI-driven applications.
+* 🤖 Experienced in developing intelligent systems using modern AI APIs and frameworks.
+* 🌐 Skilled in Full Stack Development with strong backend fundamentals.
+* 🚀 Passionate about System Design, Automation, and Scalable Architectures.
+* 🏆 Active Hackathon Participant and Continuous Learner.
+* 💼 Open to **Software Developer**, **Backend Developer**, **AI Engineer**, and **Full Stack Developer** internships and full-time opportunities.
 
 ---
 
-### 🤖 CI/CD Healing Agent (Contributor)
+# 🛠️ Technical Skills
 
-Contributed to a multi-agent system that automatically detects, classifies, and resolves CI/CD pipeline errors using AI-based code repair techniques.
+### Programming Languages
 
-**Tech Stack:** FastAPI, React, Docker, OpenAI API
+* Java
+* JavaScript
+* C
+
+### Frontend
+
+* React
+* HTML5
+* CSS3
+
+### Backend
+
+* Flask
+* FastAPI
+
+### AI & APIs
+
+* OpenAI API
+* Azure Speech-to-Text
+* ElevenLabs API
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Docker
+* VS Code
 
 ---
 
-### 💬 Floating Chatbot Integration
+# 🚀 Featured Projects
 
-Designed and integrated a floating chatbot into a live college website using iframe embedding to enhance user interaction and provide instant query resolution.
+## 🏥 AI Healthcare Consultation Platform
 
-**Tech Stack:** HTML, CSS, JavaScript
+Built a full-stack AI healthcare platform that enables users to receive intelligent **text and voice consultations** while providing an integrated **Emergency SOS system** for rapid assistance.
+
+### Key Features
+
+* AI-powered medical consultation
+* Voice interaction using Azure Speech Services
+* Natural AI voice responses using ElevenLabs
+* Emergency SOS notifications using Twilio
+* Mobile-friendly user experience
+
+**Tech Stack:** Flask • React Native • Azure Speech-to-Text • ElevenLabs • Twilio
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI-Powered CI/CD Healing Agent *(Contributor)*
+
+Contributed to an intelligent multi-agent platform that automatically detects, classifies, and repairs CI/CD pipeline failures using AI-assisted debugging and code repair workflows.
+
+### Contributions
+
+* Backend API development
+* AI integration
+* Dockerized deployment
+* Automated pipeline recovery
+
+**Tech Stack:** FastAPI • React • Docker • OpenAI API
+
+---
+
+## 💬 Floating AI Chatbot Integration
+
+Designed and integrated a floating chatbot into a live college website using iframe embedding to provide instant support, improve engagement, and automate user queries.
+
+### Highlights
+
+* Seamless website integration
+* Responsive floating widget
+* Lightweight implementation
+* Enhanced user experience
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+# 🌐 Portfolio
+
+Explore my projects, skills, and experience:
+
+### 🔗 https://manish-portfolio-app.vercel.app/
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manish-CodeByte&show_icons=true&theme=tokyonight" />
@@ -61,21 +119,20 @@ Designed and integrated a floating chatbot into a live college website using ifr
 
 ---
 
-## 🌐 Connect With Me
+# 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manishhhhhh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Manish-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:smanishs673@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+* 💼 LinkedIn: https://www.linkedin.com/in/manishhhhhh/
+* 📧 Email: [smanishs673@gmail.com](mailto:smanishs673@gmail.com)
+* 🌐 Portfolio: https://manish-portfolio-app.vercel.app/
 
 ---
 
-## ⚡ Motto
+# 🎯 Career Objective
 
-<p align="center">
-  <b>"Consistent effort builds strong systems."</b>
-</p>
+To contribute as a Software Developer by building scalable, AI-powered applications that create meaningful impact while continuously improving my engineering and problem-solving skills.
+
+---
+
+# ⚡ Motto
+
+> **"Building intelligent solutions through consistent learning, innovation, and clean engineering."**
