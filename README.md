@@ -121,7 +121,7 @@ Explore my projects, skills, and experience:
 
 # 🤝 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/manishhhhhh/
+* 💼 LinkedIn: https://www.linkedin.com/in/manish-codebyte/
 * 📧 Email: [smanishs673@gmail.com](mailto:smanishs673@gmail.com)
 * 🌐 Portfolio: https://manish-portfolio-app.vercel.app/
 
