@@ -1,112 +1,81 @@
 <div align="center">
-  <!-- Optimized Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Manish-CodeByte.Manish-CodeByte&color=0077B6&title=Profile%20Views" alt="Visitors"/>
 
-  <br><br>
+<!-- Animated Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Manish%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Developer&descAlignY=55&descSize=20" />
 
-  <!-- Developer Avatar -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Developer Avatar" width="120" />
+<!-- Animated Waving Hand -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35" />
 
-  <h1>Hi there, I'm MANISH S! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving" width="45" /></h1>
+<!-- Typing Animation -->
+<a href="https://github.com/Manish-CodeByte">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Information+Science+%26+Engineering;Building+Scalable+Web+Applications;Open+for+Freelance+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-  <!-- Smoother Typing Animation with Professional Blue/Cyan Palette -->
-  <a href="https://github.com/Manish-CodeByte">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0077B6;00B4D8;03045E&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;Information+Science+%26+Engineering;Building+Scalable+Web+Applications;🚀+Open+for+Freelance+Opportunities!" alt="Typing SVG" />
-  </a>
-  
-  <br>
-  
-  <!-- Sleek, Unified Badges -->
-  <p>
-    <a href="https://manish-portfolio-app.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_My_Portfolio-0077B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="mailto:smanishs673@gmail.com">
-      <img src="https://img.shields.io/badge/Open_For_Freelancing-00B4D8?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelancing">
-    </a>
-  </p>
+<p>
+  <a href="https://manish-portfolio-app.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/manish-codebyte"><img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:smanishs673@gmail.com"><img src="https://img.shields.io/badge/Email-03045E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Manish-CodeByte.Manish-CodeByte&color=0077B6&title=Profile%20Views" />
+
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-Welcome to my digital workspace! I am a passionate engineer dedicated to transforming complex problems into elegant, high-performance solutions. 
+<img align="right" width="280" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" />
 
-* 🎓 **Education:** B.E. in Information Science & Engineering.
-* 💻 **Profile:** Full-Stack Software Developer specializing in robust web architectures, scalable backends, and seamless RESTful APIs.
-* 🚀 **Portfolio:** Explore my latest deployments at **[manish-portfolio-app.vercel.app](https://manish-portfolio-app.vercel.app/)**
-* 🤝 **Collaboration:** Actively open to freelance contracts, open-source collaborations, and tech ventures.
-* 🎯 **Current Focus:** Advanced cloud deployments and distributed system architecture.
+- 🎓 B.E. in Information Science & Engineering
+- 💻 Full-Stack Developer — scalable backends, clean APIs, modern frontends
+- 🚀 Portfolio: **[manish-portfolio-app.vercel.app](https://manish-portfolio-app.vercel.app/)**
+- 🤝 Open to freelance work, open-source, and collaborations
+- 🎯 Currently exploring cloud deployments & distributed systems
 
----
+<br clear="right"/>
 
-## 🛠️ Technical Arsenal
-
-### 🌐 Frontend & Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,python,c,react,nextjs,tailwind,html,css&perline=15" alt="Frontend and Languages" loading="lazy" />
-  </a>
-</p>
-
-### ⚙️ Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,firebase,supabase,mysql,postgres&perline=15" alt="Backend and Databases" loading="lazy" />
-  </a>
-</p>
-
-### ☁️ Cloud, DevOps & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,postman,linux,vercel&perline=15" alt="Tools" loading="lazy" />
-  </a>
-</p>
-
----
-
-## 🧠 Core Competencies
+### 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Standardized Slate-Gray Badges for a professional look -->
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-1E293B?style=flat-square&logo=leetcode&logoColor=00B4D8" alt="DSA" />
-  <img src="https://img.shields.io/badge/System_Architecture-1E293B?style=flat-square&logo=amazonaws&logoColor=00B4D8" alt="System Architecture" />
-  <img src="https://img.shields.io/badge/API_Development-1E293B?style=flat-square&logo=postman&logoColor=00B4D8" alt="API Development" />
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-1E293B?style=flat-square&logo=java&logoColor=00B4D8" alt="OOP" />
-  <img src="https://img.shields.io/badge/Database_Design-1E293B?style=flat-square&logo=mysql&logoColor=00B4D8" alt="Database Design" />
-  <img src="https://img.shields.io/badge/Authentication_&_Security-1E293B?style=flat-square&logo=auth0&logoColor=00B4D8" alt="Auth" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,c,react,nextjs,tailwind,html,css&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,firebase,supabase,mysql,postgres&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,postman,linux,vercel&perline=9" />
 </p>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+### 📊 GitHub Stats
 
-<!-- Custom transparent themes to blend perfectly with GitHub's Light/Dark modes -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manish-CodeByte&show_icons=true&bg_color=00000000&title_color=0077B6&icon_color=00B4D8&text_color=777777&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="195" loading="lazy" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-CodeByte&background=00000000&ring=0077B6&fire=00B4D8&currStreakLabel=0077B6&sideNums=777777&currStreakNum=777777&sideLabels=777777&dates=777777&hide_border=true" alt="GitHub Streak" height="195" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish-CodeByte&show_icons=true&bg_color=00000000&title_color=0077B6&icon_color=00B4D8&text_color=777777&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-CodeByte&background=00000000&ring=0077B6&fire=00B4D8&currStreakLabel=0077B6&sideNums=777777&currStreakNum=777777&sideLabels=777777&dates=777777&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-CodeByte&layout=compact&bg_color=00000000&title_color=0077B6&text_color=777777&hide_border=true" alt="Top Languages" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-CodeByte&layout=compact&bg_color=00000000&title_color=0077B6&text_color=777777&hide_border=true" />
 </div>
 
----
+<br/>
+
+### 📈 Activity Graph
 
 <div align="center">
-  <h3 style="margin-bottom: 15px;">Let's Build Something Amazing Together! 🤝</h3>
-  
-  <a href="https://manish-portfolio-app.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/manish-codebyte" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:smanishs673@gmail.com">
-    <img src="https://img.shields.io/badge/Email-03045E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Manish-CodeByte" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-CodeByte&bg_color=00000000&color=0077B6&line=00B4D8&point=03045E&area=true&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+<!-- Animated Contribution Snake (requires GitHub Action setup below) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Manish-CodeByte/Manish-CodeByte/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+<br/>
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=120&section=footer" />
+
+<div align="center">
+  <sub>Thanks for stopping by — let's build something great together! 🤝</sub>
 </div>
