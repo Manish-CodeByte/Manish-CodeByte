@@ -1,68 +1,110 @@
 <div align="center">
-  <!-- 3D Animated Tech Asset -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="3D Terminal" width="100" />
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Manish-CodeByte.Manish-CodeByte&color=26A69A" alt="visitors"/>
 
-  <h1><code>> root@manish-s:~#</code> <span style="color:#00FF00;">Hello, World!</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Hacker Alien" width="40" /></h1>
+  <br><br>
 
-  <!-- Smooth Typing Animation (Hacker Terminal Theme) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>+sudo+su+-+Full_Stack_Dev;>+cd+%2FInformation_Science;>+.%2Fbuild_scalable_apps.sh;>+System.out.println(%22Hack+the+Planet%22);" alt="Typing SVG" />
+  <!-- 3D Animated Developer Avatar -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="3D Developer" width="120" />
+
+  <h1>Hi there, I'm MANISH S! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="45" /></h1>
+
+  <!-- Smooth Typing Animation with Gradient Colors -->
+  <a href="https://github.com/Manish-CodeByte">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6;10B981;8B5CF6&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;Information+Science+%26+Engineering;Building+Scalable+Web+Applications;%F0%9F%9A%80+Open+for+Freelance+Opportunities!" alt="Typing SVG" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Portfolio and Freelance Badges -->
+  <a href="https://manish-portfolio-app.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2563EB?style=for-the-badge&logoColor=white&labelColor=1F2937" alt="Portfolio">
+  </a>
+  <a href="mailto:smanishs673@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Open%20For%20Freelancing-10B981?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=1F2937" alt="Open for Freelancing">
   </a>
 </div>
 
 <br/>
 
-## <code>> cat about_me.txt</code>
-* 🎓 **Education:** B.E. in Information Science & Engineering.[cite: 1]
-* 💻 **Profile:** Full-Stack Software Developer focused on building scalable web applications and API design.[cite: 1]
-* 🛠️ **Core Skills:** React.js, Next.js, Node.js, Express.js, Python, Java, SQL, and REST APIs.[cite: 1]
+## 👨‍💻 About Me
+
+Welcome to my digital workspace! I am a passionate engineer who loves turning complex problems into elegant, scalable solutions. 
+
+* 🎓 **Education:** B.E. in Information Science & Engineering.
+* 💻 **Profile:** Full-Stack Software Developer focused on building robust web applications, optimizing backend architectures, and designing seamless REST APIs.
+* 🚀 **Portfolio:** Check out my latest projects and work at **[manish-portfolio-app.vercel.app](https://manish-portfolio-app.vercel.app/)**
+* 🤝 **Collaboration:** Actively looking for exciting freelance projects, open-source contributions, and collaborative tech ventures.
+* 🎯 **Current Focus:** Mastering cloud deployments and scaling distributed systems.
 
 ---
 
-## <code>> ls -la ./skills/</code>
+## 🛠️ Technical Arsenal
 
 ### 🌐 Frontend & Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,python,c,react,nextjs,tailwind,html&theme=dark" alt="Frontend and Languages" />
+    <img src="https://skillicons.dev/icons?i=js,java,python,c,react,nextjs,tailwind,html,css&perline=15" alt="Frontend and Languages" />
   </a>
 </p>
-<code>[ "JavaScript", "Java", "Python", "C", "React.js", "Next.js", "Tailwind CSS", "HTML5" ]</code>[cite: 1]
 
 ### ⚙️ Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,firebase,supabase,mysql&theme=dark" alt="Backend and Databases" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,firebase,supabase,mysql,postgres&perline=15" alt="Backend and Databases" />
   </a>
 </p>
-<code>[ "Node.js", "Express.js", "Flask", "MongoDB", "Firebase", "Supabase", "SQL" ]</code>[cite: 1]
 
 ### ☁️ Cloud, DevOps & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,postman,linux,vercel&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,postman,linux,vercel&perline=15" alt="Tools" />
   </a>
 </p>
-<code>[ "Microsoft Azure", "AWS", "Docker", "Git", "GitHub", "Postman", "Linux", "Vercel" ]</code>[cite: 1]
 
 ---
 
-## <code>> ./core_competencies.sh</code>
-* `[+]` Data Structures & Algorithms | Object-Oriented Programming (OOP)[cite: 1]
-* `[+]` System Architecture | API Development | Database Design[cite: 1]
-* `[+]` Authentication | Problem Solving[cite: 1]
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish-CodeByte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Manish's GitHub stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-CodeByte&theme=tokyonight&hide_border=true" alt="Manish's Streak" height="195"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-CodeByte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🧠 Core Competencies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-8B5CF6?style=flat-square&logo=leetcode&logoColor=white" alt="DSA" />
+  <img src="https://img.shields.io/badge/System_Architecture-3B82F6?style=flat-square&logo=amazonaws&logoColor=white" alt="System Architecture" />
+  <img src="https://img.shields.io/badge/API_Development-10B981?style=flat-square&logo=postman&logoColor=white" alt="API Development" />
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-F59E0B?style=flat-square&logo=java&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Database_Design-EF4444?style=flat-square&logo=mysql&logoColor=white" alt="Database Design" />
+  <img src="https://img.shields.io/badge/Authentication_&_Security-000000?style=flat-square&logo=auth0&logoColor=white" alt="Auth" />
+</p>
 
 ---
 
 <div align="center">
-  <h3 style="margin-bottom: 15px;"><code>> ping -c 4 connections...</code> 📡</h3>
+  <h3 style="margin-bottom: 15px;">Let's Build Something Amazing Together! 🤝</h3>
+  
+  <a href="https://manish-portfolio-app.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/manish-codebyte" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:smanishs673@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Manish-CodeByte" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
