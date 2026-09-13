@@ -47,36 +47,6 @@ I am a Full-Stack Developer specializing in building robust, high-performance we
     <td align="center"><img src="https://skillicons.dev/icons?i=aws,azure,docker,git,postman,vercel&perline=3" /></td>
   </tr>
 </table>
-
-<br/>
-
-### 📂 Featured Projects
-
-*(Update the links below with your actual project repositories to show clients your code quality)*
-
-<div align="center">
-  <a href="https://github.com/Manish-CodeByte/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-CodeByte&repo=your-project-1&bg_color=00000000&title_color=2563EB&icon_color=0F172A&text_color=777777&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/Manish-CodeByte/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-CodeByte&repo=your-project-2&bg_color=00000000&title_color=2563EB&icon_color=0F172A&text_color=777777&hide_border=true" width="48%" />
-  </a>
-</div>
-
-<br/>
-
-### 📊 Professional Analytics
-
-*A brief overview of my coding activity and primary languages.*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manish-CodeByte&show_icons=true&bg_color=00000000&title_color=2563EB&icon_color=0F172A&text_color=777777&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-CodeByte&layout=compact&bg_color=00000000&title_color=2563EB&text_color=777777&hide_border=true" height="165" />
-</div>
-
-<br/>
-
-<!-- Minimalist Footer -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" />
   <p><b>Open for new opportunities. Let's discuss your next project! 🤝</b></p>
